@@ -21,6 +21,8 @@
   }
 }
 
+
+
 [class^="flaticon-"], [class*=" flaticon-"],
 [class^="flaticon-"], [class*=" flaticon-"] {   
   font-family: Flaticon;
@@ -47,3 +49,10 @@
 .flaticon-technology:before { content: "\f110"; }
 .flaticon-tool:before { content: "\f111"; }
 .flaticon-tool-1:before { content: "\f112"; }
+  
+.flaticon-people-1:before { content: "\f100"; }
+.flaticon-people:before { content: "\f101"; }
+.flaticon-clock:before { content: "\f102"; }
+.flaticon-transport:before { content: "\f103"; }
+.flaticon-medal:before { content: "\f104"; }
+.flaticon-note:before { content: "\f105"; }

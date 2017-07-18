@@ -5832,3 +5832,48 @@ input,textarea {
   -webkit-animation-timing-function: ease-out;
   animation-timing-function: ease-out;
 }
+.feature .inner-box .item-list .item:nth-child(5) .border {
+	border: 3px dashed #6059bb;
+}
+.feature .inner-box .item-list .item:nth-child(6) .border {
+	border: 3px dashed #fd7114;
+}
+.feature .inner-box .item-list .item:nth-child(7) .border {
+	border: 3px dashed #6cabb8;
+}
+.feature .inner-box .item-list .item:nth-child(8) .border {
+	border: 3px dashed #add546;
+}
+.feature .inner-box .item-list .item:nth-child(5) .icon-box {
+    background: #6059bb;
+}
+.feature .inner-box .item-list .item:nth-child(6) .icon-box {
+    background: #fd7114;	
+}
+.feature .inner-box .item-list .item:nth-child(7) .icon-box {
+    background: #6cabb8;	
+}
+.feature .inner-box .item-list .item:nth-child(8) .icon-box {
+    background: #add546;	
+}
+.feature .inner-box .item-list .item:nth-child(5) h3 a:hover{
+	color:#6059bb;
+	transition:.5s;
+}
+.feature .inner-box .item-list .item:nth-child(6) h3 a:hover{
+	color:#fd7114;
+	transition:.5s;
+}
+.feature .inner-box .item-list .item:nth-child(7) h3 a:hover{
+	color:#6cabb8;
+	transition:.5s;
+}
+.feature .inner-box .item-list .item:nth-child(8) h3 a:hover{
+	color:#add546;
+	transition:.5s;
+}
+
+.icon-box>img{
+	    width: 46px;
+    margin: 45px auto;
+}
